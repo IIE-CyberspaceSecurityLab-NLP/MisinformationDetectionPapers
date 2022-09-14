@@ -16,4 +16,38 @@ Important papers on misinformation detection
     - [Research Papers](#research-papers)
   - [Organizations](#organizations)
   - [Contribution](#contribution)
-  - [Site](#site)
+
+
+## Introduction
+
+### Overview and Statistics
+
+### Keywords Convention
+
+<!-- ![](https://img.shields.io/badge/-UserInfo-green) which mainly focus on user info features. -->
+
+![](https://img.shields.io/badge/-Text-blue) which mainly focus on the text features.
+
+![](https://img.shields.io/badge/-SocialGraph-red) which mainly focus on social graph and use the graph-based methods.
+
+<!-- ![](https://img.shields.io/badge/-Temporal-orange) which mainly focus on temporal patterns. -->
+
+![](https://img.shields.io/badge/Conference-CCF--A-red) Conference Rank (A, B, C) from China Computer Federation.
+
+### Toolkits
+
+### Datasets
+
+#### English
+
+#### Chinese
+
+### Papers
+
+#### Survey
+
+#### Research Papers
+
+### Organizations
+
+### Contribution
