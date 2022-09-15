@@ -69,7 +69,7 @@ Important papers on misinformation detection
         * F1: 97.22%(BERT)
 * Reference: Dou, Y., Shu, K., Xia, C., Yu, P. S., & Sun, L. (2021, July). User preference-aware fake news detection. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 2051-2055).
 
-##### EANN-KDD18  ![](https://img.shields.io/badge/-competition-orange)
+##### EANN-KDD18  ![](https://img.shields.io/badge/-Image-yellow)
 * Link to publication: [https://dl.acm.org/citation.cfm?id=3219819.3219903](https://dl.acm.org/citation.cfm?id=3219819.3219903)
 * Link to data: [https://github.com/yaqingwang/EANN-KDD18](https://github.com/yaqingwang/EANN-KDD18)
 * Task description: 
@@ -109,7 +109,7 @@ Important papers on misinformation detection
     * id
     * text
 
-##### EANN-KDD20  ![](https://img.shields.io/badge/-competition-orange)
+##### EANN-KDD20  ![](https://img.shields.io/badge/-Image-yellow)
 * Link to publication: [https://arxiv.org/abs/1912.12520](https://arxiv.org/abs/1912.12520)
 * Link to data: [https://github.com/yaqingwang/WeFEND-AAAI20](https://github.com/yaqingwang/WeFEND-AAAI20)
 * Task description: 
