@@ -70,6 +70,19 @@ Important papers on misinformation detection
 * Reference: Dou, Y., Shu, K., Xia, C., Yu, P. S., & Sun, L. (2021, July). User preference-aware fake news detection. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 2051-2055).
 
 #### Chinese
+##### weibo21
+* Link to publication: [https://dl.acm.org/doi/abs/10.1145/3459637.3482139](https://dl.acm.org/doi/abs/10.1145/3459637.3482139)
+* Task description: binary(fake,not)
+* Size of fake news: 4488
+* Size of real news: 4640
+* Language: Chinese
+* Platform: Weibo
+* Medium: text
+* Feature: ID，content, comments, timestamp, piclists, label, category
+* effect:
+    * F1: 0.9137(MDFEND)
+
+
 ##### competition: BAAI & ICT - False news Detection ! [](https://img.shields.io/badge/-competition-orange)
 * Link to competition: [https://www.biendata.xyz/competition/falsenews/](https://www.biendata.xyz/competition/falsenews/)
 * Link to data: [https://www.biendata.xyz/competition/falsenews/data/](https://www.biendata.xyz/competition/falsenews/data/)
