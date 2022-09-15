@@ -125,6 +125,37 @@ Important papers on misinformation detection
 * effect: 
 * Reference:
 
+#### weibo21
+* Link to publication: [https://dl.acm.org/doi/abs/10.1145/3459637.3482139](https://dl.acm.org/doi/abs/10.1145/3459637.3482139)
+* Task description: binary(fake,real)
+* Size of fake news: 4488
+* Size of real news: 4640
+* Language: Chinese
+* Platform: Weibo
+* Medium: text
+* Feature: ID，content, comments, timestamp, piclists, label, category
+* effect:
+    * F1: 0.9137(MDFEND)
+
+#### wechat fake news
+* Link to publication: [https://arxiv.org/abs/1912.12520](https://arxiv.org/abs/1912.12520)
+* Task description: binary(fake, real, unlabeled)
+* Size of fake news: 2090
+* Size of real news: 2090
+* Language: Chinese
+* Platform: Wechat
+* Medium: text
+* Feature:
+  * Official Account Name	--The name of official account, news publisher
+  * Title	--News Title 
+  * News Url	--The url of news 
+  * Image Url	--The url of cover image 
+  * Report Content	--The reports from reader, split by ## 
+  * label --label of news, 0 is real and 1 is fake
+* effect:
+    * Fake news F1: 0.810
+    * Real news F1: 0.836
+
 ### Papers
 
 #### Survey
