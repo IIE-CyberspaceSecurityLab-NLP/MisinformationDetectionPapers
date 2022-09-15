@@ -90,6 +90,8 @@ Important papers on misinformation detection
 * Level of annotation: news and rumors(have be officially debunked)
 * Medium: Text,image,Text&image
 * Feature:
+    * id
+    * text
 
 
 ### Papers
