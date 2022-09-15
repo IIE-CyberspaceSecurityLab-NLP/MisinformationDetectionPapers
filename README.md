@@ -72,7 +72,18 @@ Important papers on misinformation detection
 ##### EANN-KDD18  ![](https://img.shields.io/badge/-competition-orange)
 * Link to publication: [https://dl.acm.org/citation.cfm?id=3219819.3219903](https://dl.acm.org/citation.cfm?id=3219819.3219903)
 * Link to data: [https://github.com/yaqingwang/EANN-KDD18](https://github.com/yaqingwang/EANN-KDD18)
-* 
+* Task description: 
+* Details of task: 
+* Size of dataset: 
+* Percentage fake: 
+* Language: English, Chinese
+* Level of annotation: 
+* Platform: 
+* Medium: 
+* Citations: 
+* Feature: 
+* effect: 
+* Reference:
 
 #### Chinese
 ##### competition: BAAI & ICT - False news Detection  ![](https://img.shields.io/badge/-competition-orange)
@@ -98,6 +109,21 @@ Important papers on misinformation detection
     * id
     * text
 
+##### EANN-KDD20  ![](https://img.shields.io/badge/-competition-orange)
+* Link to publication: [https://arxiv.org/abs/1912.12520](https://arxiv.org/abs/1912.12520)
+* Link to data: [https://github.com/yaqingwang/WeFEND-AAAI20](https://github.com/yaqingwang/WeFEND-AAAI20)
+* Task description: 
+* Details of task: 
+* Size of dataset: 
+* Percentage fake: 
+* Language: English, Chinese
+* Level of annotation: 
+* Platform: 
+* Medium: 
+* Citations: 
+* Feature: 
+* effect: 
+* Reference:
 
 ### Papers
 
