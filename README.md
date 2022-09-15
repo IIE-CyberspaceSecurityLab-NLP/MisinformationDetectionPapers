@@ -42,7 +42,7 @@ Important papers on misinformation detection
 ### Datasets
 
 #### English
-##### UPFD ![](https://img.shields.io/badge/-SocialGraph-red) which mainly focus on social graph and use the graph-based methods.
+##### UPFD ![](https://img.shields.io/badge/-SocialGraph-red) 
 * Link to publication: [https://arxiv.org/pdf/2104.12259.pdf](https://arxiv.org/pdf/2104.12259.pdf)
 * Link to data: [https://github.com/safe-graph/GNN-FakeNews](https://github.com/safe-graph/GNN-FakeNews)
 * Task description: binary(fake,not)
@@ -69,21 +69,24 @@ Important papers on misinformation detection
         * F1: 97.22%(BERT)
 * Reference: Dou, Y., Shu, K., Xia, C., Yu, P. S., & Sun, L. (2021, July). User preference-aware fake news detection. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 2051-2055).
 
+##### EANN-KDD18  ![](https://img.shields.io/badge/-competition-orange)
+* Link to publication: [https://dl.acm.org/citation.cfm?id=3219819.3219903](https://dl.acm.org/citation.cfm?id=3219819.3219903)
+* Link to data: [https://github.com/yaqingwang/EANN-KDD18](https://github.com/yaqingwang/EANN-KDD18)
+* Task description: 
+* Details of task: 
+* Size of dataset: 
+* Percentage fake: 
+* Language: English, Chinese
+* Level of annotation: 
+* Platform: 
+* Medium: 
+* Citations: 
+* Feature: 
+* effect: 
+* Reference:
+
 #### Chinese
-##### weibo21
-* Link to publication: [https://dl.acm.org/doi/abs/10.1145/3459637.3482139](https://dl.acm.org/doi/abs/10.1145/3459637.3482139)
-* Task description: binary(fake,not)
-* Size of fake news: 4488
-* Size of real news: 4640
-* Language: Chinese
-* Platform: Weibo
-* Medium: text
-* Feature: ID，content, comments, timestamp, piclists, label, category
-* effect:
-    * F1: 0.9137(MDFEND)
-
-
-##### competition: BAAI & ICT - False news Detection ! [](https://img.shields.io/badge/-competition-orange)
+##### competition: BAAI & ICT - False news Detection  ![](https://img.shields.io/badge/-competition-orange)
 * Link to competition: [https://www.biendata.xyz/competition/falsenews/](https://www.biendata.xyz/competition/falsenews/)
 * Link to data: [https://www.biendata.xyz/competition/falsenews/data/](https://www.biendata.xyz/competition/falsenews/data/)
 * Task description: binary(fake,not)
@@ -103,7 +106,24 @@ Important papers on misinformation detection
 * Level of annotation: news and rumors(have be officially debunked)
 * Medium: Text,image,Text&image
 * Feature:
+    * id
+    * text
 
+##### EANN-KDD20  ![](https://img.shields.io/badge/-competition-orange)
+* Link to publication: [https://arxiv.org/abs/1912.12520](https://arxiv.org/abs/1912.12520)
+* Link to data: [https://github.com/yaqingwang/WeFEND-AAAI20](https://github.com/yaqingwang/WeFEND-AAAI20)
+* Task description: 
+* Details of task: 
+* Size of dataset: 
+* Percentage fake: 
+* Language: English, Chinese
+* Level of annotation: 
+* Platform: 
+* Medium: 
+* Citations: 
+* Feature: 
+* effect: 
+* Reference:
 
 ### Papers
 
