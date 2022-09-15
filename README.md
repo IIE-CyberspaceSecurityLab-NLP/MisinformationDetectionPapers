@@ -125,6 +125,18 @@ Important papers on misinformation detection
 * effect: 
 * Reference:
 
+#### weibo21
+* Link to publication: [https://dl.acm.org/doi/abs/10.1145/3459637.3482139](https://dl.acm.org/doi/abs/10.1145/3459637.3482139)
+* Task description: binary(fake,not)
+* Size of fake news: 4488
+* Size of real news: 4640
+* Language: Chinese
+* Platform: Weibo
+* Medium: text
+* Feature: ID，content, comments, timestamp, piclists, label, category
+* effect:
+    * F1: 0.9137(MDFEND)
+
 ### Papers
 
 #### Survey
