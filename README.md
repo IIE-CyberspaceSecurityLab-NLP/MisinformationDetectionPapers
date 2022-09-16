@@ -45,8 +45,7 @@ Important papers on misinformation detection
 ##### UPFD ![](https://img.shields.io/badge/-SocialGraph-red) 
 * Link to publication: [https://arxiv.org/pdf/2104.12259.pdf](https://arxiv.org/pdf/2104.12259.pdf)
 * Link to data: [https://github.com/safe-graph/GNN-FakeNews](https://github.com/safe-graph/GNN-FakeNews)
-* Task description: binary(fake,not)
-* Details of task: graph-structured
+* Task description: binary(fake, not)
 * Size of dataset: 5778
 * Percentage fake: 50%
 * Language: English
@@ -72,24 +71,29 @@ Important papers on misinformation detection
 ##### EANN-KDD18  ![](https://img.shields.io/badge/-Image-yellow)
 * Link to publication: [https://dl.acm.org/citation.cfm?id=3219819.3219903](https://dl.acm.org/citation.cfm?id=3219819.3219903)
 * Link to data: [https://github.com/yaqingwang/EANN-KDD18](https://github.com/yaqingwang/EANN-KDD18)
-* Task description: 
-* Details of task: 
+* Task description: binary(fake, not)
 * Size of dataset: 
+    * Twitter: 13924(514 tweets contain images)
+    * Weibo: 9528(all contain images)
 * Percentage fake: 
+    * Twitter: 56.7%
+    * Weibo: 49.8%
 * Language: English, Chinese
 * Level of annotation: 
-* Platform: 
-* Medium: 
+    * Twitter: Multimodal data set from MediaEval, this dataset contains image, video, and context, here the author deletes tweets without any pictures and text //TODO
+    * Weibo: The real data is obtained through China's authoritative news website, and the fake news is crawled by crawlers from 2012.5 to 2016.1, and the news is obtained through official Weibo rumors. Low quality and duplicate images were removed during collection. Divide the dataset into training, validation and test sets with a ratio of 7:1:2
+* Platform: Twitter, Weibo
+* Medium: text, image
 * Citations: 
 * Feature: 
 * effect: 
-* Reference:
+* Reference: 
 
 #### Chinese
 ##### competition: BAAI & ICT - False news Detection  ![](https://img.shields.io/badge/-competition-orange)
 * Link to competition: [https://www.biendata.xyz/competition/falsenews/](https://www.biendata.xyz/competition/falsenews/)
 * Link to data: [https://www.biendata.xyz/competition/falsenews/data/](https://www.biendata.xyz/competition/falsenews/data/)
-* Task description: binary(fake,not)
+* Task description: binary(fake, not)
 * Details of task:
     1. False News Text Detection: text information only
     2. False News Image Detection: image information only
@@ -112,14 +116,18 @@ Important papers on misinformation detection
 ##### EANN-KDD20  ![](https://img.shields.io/badge/-Image-yellow)
 * Link to publication: [https://arxiv.org/abs/1912.12520](https://arxiv.org/abs/1912.12520)
 * Link to data: [https://github.com/yaqingwang/WeFEND-AAAI20](https://github.com/yaqingwang/WeFEND-AAAI20)
-* Task description: 
-* Details of task: 
+* Task description: binary(fake,not)
 * Size of dataset: 
+    * train: 13330
+    * test: 11623
+    * non-label: 67748
 * Percentage fake: 
+    * train: 20.6%
+    * test: 12.8%
 * Language: English, Chinese
 * Level of annotation: 
-* Platform: 
-* Medium: 
+* Platform: WeChat
+* Medium: text, image
 * Citations: 
 * Feature: 
 * effect: 
@@ -139,7 +147,7 @@ Important papers on misinformation detection
 
 #### wechat fake news
 * Link to publication: [https://arxiv.org/abs/1912.12520](https://arxiv.org/abs/1912.12520)
-* Task description: binary(fake, real, unlabeled)
+* Task description: triple(fake, real, unlabeled)
 * Size of fake news: 2090
 * Size of real news: 2090
 * Language: Chinese
