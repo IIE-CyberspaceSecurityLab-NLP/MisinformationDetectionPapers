@@ -84,9 +84,16 @@ Important papers on misinformation detection
     * Weibo: The real data is obtained through China's authoritative news website, and the fake news is crawled by crawlers from 2012.5 to 2016.1, and the news is obtained through official Weibo rumors. Low quality and duplicate images were removed during collection. Divide the dataset into training, validation and test sets with a ratio of 7:1:2
 * Platform: Twitter, Weibo
 * Medium: text, image
-* Citations: 
+* Citations: 499+
 * Feature: 
 * effect: 
+    * Twitter:
+        * Acc: 71.5%(EANN)
+        * precision: 82.2%(EANN)
+        * recall: 63.8%(EANN)
+        * F1:71.9%(EANN)
+    * Weibo:
+    
 * Reference: 
 
 #### Chinese
@@ -131,7 +138,7 @@ Important papers on misinformation detection
 * Citations: 
 * Feature: 
 * effect: 
-* Reference:
+* Reference: 
 
 #### weibo21
 * Link to publication: [https://dl.acm.org/doi/abs/10.1145/3459637.3482139](https://dl.acm.org/doi/abs/10.1145/3459637.3482139)
