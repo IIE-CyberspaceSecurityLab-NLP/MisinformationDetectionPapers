@@ -141,7 +141,7 @@ Important papers on misinformation detection
 * Reference: 
 
 #### weibo21
-* Link to publication: [https://dl.acm.org/doi/abs/10.1145/3459637.3482139](https://dl.acm.org/doi/abs/10.1145/3459637.3482139)
+* Link to publication: [https://arxiv.org/abs/2201.00987v1](https://arxiv.org/abs/2201.00987v1)
 * Task description: binary(fake,real)
 * Size of fake news: 4488
 * Size of real news: 4640
@@ -151,7 +151,7 @@ Important papers on misinformation detection
 * Feature: ID，content, comments, timestamp, piclists, label, category
 * effect:
     * F1: 0.9137(MDFEND)
-
+* reference: Nan Q, Cao J, Zhu Y, et al. MDFEND: Multi-domain fake news detection[C]//Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021: 3343-3347.
 #### wechat fake news
 * Link to publication: [https://arxiv.org/abs/1912.12520](https://arxiv.org/abs/1912.12520)
 * Task description: triple(fake, real, unlabeled)
@@ -170,6 +170,7 @@ Important papers on misinformation detection
 * effect:
     * Fake news F1: 0.810
     * Real news F1: 0.836
+* reference: Wang Y, Yang W, Ma F, et al. Weak supervision for fake news detection via reinforcement learning[C]//Proceedings of the AAAI conference on artificial intelligence. 2020, 34(01): 516-523.
 
 ### Papers
 
