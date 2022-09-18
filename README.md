@@ -148,7 +148,7 @@ Important papers on misinformation detection
 * Language: Chinese
 * Platform: Weibo
 * Medium: text
-* Feature: ID，content, comments, timestamp, piclists, label, category
+* Feature: ID，content, comments, timestamp, label, category
 * effect:
     * F1: 0.9137(MDFEND)
 * reference: Nan Q, Cao J, Zhu Y, et al. MDFEND: Multi-domain fake news detection[C]//Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021: 3343-3347.
@@ -171,7 +171,19 @@ Important papers on misinformation detection
     * Fake news F1: 0.810
     * Real news F1: 0.836
 * reference: Wang Y, Yang W, Ma F, et al. Weak supervision for fake news detection via reinforcement learning[C]//Proceedings of the AAAI conference on artificial intelligence. 2020, 34(01): 516-523.
-
+#### Weibo FakeNews From USTC
+* Link to publication: [https://justc.ustc.edu.cn/article/doi/10.52396/JUSTC-2021-0215](https://justc.ustc.edu.cn/article/doi/10.52396/JUSTC-2021-0215)
+* Task description: binary(fake, real)
+* Size of fake news: 26320
+* Size of real news: 35426
+* Size of fake user: 24181
+* Language: Chinese
+* Platform: Weibo
+* Medium: text
+* effect:
+    * LSTM F1: 0.869
+    * CNN F1: 0.899
+*reference: Chen X, Fang S, Mao Z, et al. A data-driven model for social media fake news detection[J]. JUSTC, 2022, 52(3): 7-1-7-9.
 ### Papers
 
 #### Survey
